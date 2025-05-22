@@ -16,9 +16,3 @@ Applied all the lighting concepts to set up and light a **small 3D model of a vi
 This project helped me develop both technical and artistic lighting skills in Unity, blending practical lighting setup with a solid understanding of color theory.
 
 ## 📸 Project Screenshots
-
-## 🏅 Certification
-
-I successfully completed the course and received a certificate from Udemy
-
-[View Certificate of Completion on Udemy](https://www.udemy.com/certificate/UC-c54862db-0426-4e0f-b7f4-71d79f890e06/)
