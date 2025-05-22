@@ -17,3 +17,8 @@ This project helped me develop both technical and artistic lighting skills in Un
 
 ## 📸 Project Screenshots
 
+## 🏅 Certification
+
+I successfully completed the course and received a certificate from Udemy
+
+[View Certificate of Completion on Udemy](https://www.udemy.com/certificate/UC-c54862db-0426-4e0f-b7f4-71d79f890e06/)
